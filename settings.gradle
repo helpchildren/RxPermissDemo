@@ -1,0 +1,3 @@
+include ':rxpermissions'
+include ':app'
+rootProject.name = "RxPermissDemo"
